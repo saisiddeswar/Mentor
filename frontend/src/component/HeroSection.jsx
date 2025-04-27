@@ -12,20 +12,7 @@ function HeroSection() {
             <button className="hero-button primary-btn">Find Your Mentor</button>
             <button className="hero-button secondary-btn">How It Works</button>
           </div>
-          <div className="stats-container">
-            <div className="stat-item">
-              <span className="stat-number">500+</span>
-              <span className="stat-label">Mentors</span>
-            </div>
-            <div className="stat-item">
-              <span className="stat-number">10K+</span>
-              <span className="stat-label">Students Helped</span>
-            </div>
-            <div className="stat-item">
-              <span className="stat-number">50+</span>
-              <span className="stat-label">Institutions</span>
-            </div>
-          </div>
+          
         </div>
 
         <div className="hero-image">

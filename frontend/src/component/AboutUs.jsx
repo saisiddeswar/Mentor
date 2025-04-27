@@ -12,33 +12,26 @@ const AboutUs = () => {
       <div className="about-content">
         <div className="about-text">
           <p>
-            Born from the rich Indian tradition of "Guru-Shishya" mentorship, Big Hero connects students with 
-            experienced mentors across India's top institutions and companies. We believe every student deserves 
-            personal guidance to navigate their career path.
+            Big Hero Mentorship was founded with a simple idea — to make mentorship accessible to every student. 
+            Inspired by the Indian tradition of "Guru-Shishya", we are building a community where students can 
+            connect with mentors for real guidance and career advice.
           </p>
           
           <p>
-            Our mentors are passionate professionals and alumni from IITs, NITs, AIIMS, IIMs and other premier 
-            institutes who want to give back to the student community.
+            Our growing network of mentors includes passionate individuals from top educational institutions and 
+            industries, who believe in sharing their experience to uplift the next generation.
           </p>
 
-          <div className="key-points">
-            <div className="point">
-              <span>✓</span> 500+ mentors from top Indian institutions
-            </div>
-            <div className="point">
-              <span>✓</span> 10,000+ students guided since 2020
-            </div>
-            <div className="point">
-              <span>✓</span> Special focus on Indian education system
-            </div>
-          </div>
+          <p>
+            We are just getting started — and are committed to creating meaningful mentor-mentee connections 
+            that make a real difference.
+          </p>
         </div>
 
         <div className="about-image">
           <img 
             src="/indian-mentors.jpg" 
-            alt="Indian mentors and students" 
+            alt="Mentorship journey in India" 
           />
         </div>
       </div>

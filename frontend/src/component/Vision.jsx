@@ -8,10 +8,10 @@ const Vision = () => {
       <div className="container">
         <div className="section-header">
           <h2>Our Vision</h2>
-          <p className="subtitle">Bridging ancient wisdom with modern opportunities</p>
+          <p className="subtitle">Bridging knowledge with opportunity</p>
           <div className="divider">
             <div className="divider-line"></div>
-            <div className="divider-icon">✨</div>
+            {/* <div className="divider-icon">*</div> */}
             <div className="divider-line"></div>
           </div>
         </div>
@@ -21,26 +21,26 @@ const Vision = () => {
             <div className="vision-icon">
               <FaLightbulb />
             </div>
-            <h3>Empowering India's Next Generation</h3>
+            <h3>Empowering Students Across India</h3>
             <p>
-              We envision an India where every student, regardless of background, has access 
-              to personalized guidance from those who've walked the path before them. By 
-              democratizing mentorship, we aim to unlock the full potential of India's youth.
+              We believe every student deserves access to personalized mentorship 
+              that prepares them for academic, professional, and personal success. 
+              Our vision is to make quality guidance accessible and affordable for all.
             </p>
           </div>
 
           <div className="pillars-container">
-            <h4>Our Guiding Principles</h4>
+            <h4>Our Core Principles</h4>
             
             <div className="pillars-grid">
               <div className="pillar-card">
                 <div className="pillar-icon">
                   <FaGlobeAsia />
                 </div>
-                <h5>Global Mindset</h5>
+                <h5>Global Perspective</h5>
                 <p>
-                  Prepare students for both Indian and global opportunities with 
-                  world-class guidance
+                  Equip students to succeed both in India and internationally through 
+                  relevant, practical mentorship.
                 </p>
               </div>
 
@@ -48,9 +48,10 @@ const Vision = () => {
                 <div className="pillar-icon">
                   <FaUserGraduate />
                 </div>
-                <h5>Academic Excellence</h5>
+                <h5>Academic Support</h5>
                 <p>
-                  Support students navigating India's competitive education landscape
+                  Guide students through India's competitive educational and career systems 
+                  with experienced mentorship.
                 </p>
               </div>
 
@@ -60,35 +61,32 @@ const Vision = () => {
                 </div>
                 <h5>Community Building</h5>
                 <p>
-                  Create networks that extend beyond mentorship into lifelong professional 
-                  relationships
+                  Build lasting networks where students and mentors grow together, 
+                  beyond one-time sessions.
                 </p>
               </div>
             </div>
           </div>
 
           <div className="indian-context">
-            <h4>Rooted in Indian Values</h4>
+            <h4>Built for Indian Students</h4>
             <div className="values-list">
               <div className="value-item">
-                <span className="value-icon">🌱</span>
                 <div>
-                  <h6>Guru-Shishya Parampara</h6>
-                  <p>Modernizing India's ancient mentorship tradition for today's students</p>
+                  <h6>Modern Mentorship</h6>
+                  <p>Bringing the spirit of traditional mentorship into a modern, accessible format.</p>
                 </div>
               </div>
               <div className="value-item">
-                <span className="value-icon">🤝</span>
                 <div>
-                  <h6>Vasudhaiva Kutumbakam</h6>
-                  <p>Building a mentorship family that supports all members</p>
+                  <h6>Inclusive Community</h6>
+                  <p>Fostering a culture where students from all backgrounds are supported and uplifted.</p>
                 </div>
               </div>
               <div className="value-item">
-                <span className="value-icon">💡</span>
                 <div>
-                  <h6>Atmanirbhar Bharat</h6>
-                  <p>Developing self-reliant students who can compete globally</p>
+                  <h6>Self-Reliance</h6>
+                  <p>Helping students build confidence, independence, and global competitiveness.</p>
                 </div>
               </div>
             </div>

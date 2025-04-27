@@ -8,7 +8,7 @@ const WhyUs = () => {
       <div className="container">
         <div className="section-header">
           <h2>Why Choose Big Hero Mentorship?</h2>
-          <p className="subtitle">We're different from typical mentorship platforms</p>
+          <p className="subtitle">We bring real guidance to real students</p>
           <div className="divider"></div>
         </div>
 
@@ -19,8 +19,8 @@ const WhyUs = () => {
             </div>
             <h3>Industry-Insider Guidance</h3>
             <p>
-              Our mentors are working professionals from top Indian and global companies who 
-              understand exactly what skills and knowledge you need to succeed.
+              Learn directly from working professionals across top Indian and global companies, 
+              who understand the skills and mindset needed to thrive in today’s world.
             </p>
           </div>
 
@@ -28,10 +28,10 @@ const WhyUs = () => {
             <div className="feature-icon">
               <FaGraduationCap />
             </div>
-            <h3>Alumni Network</h3>
+            <h3>Alumni Mentorship</h3>
             <p>
-              Get mentored by alumni from your dream colleges (IITs, IIMs, AIIMS, etc.) who 
-              have successfully walked the path you're on.
+              Connect with mentors who have graduated from India’s premier institutions 
+              and are eager to share their experiences and lessons with you.
             </p>
           </div>
 
@@ -41,8 +41,8 @@ const WhyUs = () => {
             </div>
             <h3>Personalized Matching</h3>
             <p>
-              We carefully match you with mentors based on your goals, background, and 
-              personality - not just random connections.
+              We focus on thoughtful mentor-mentee connections, considering your background, 
+              goals, and interests — no random matching.
             </p>
           </div>
 
@@ -50,10 +50,10 @@ const WhyUs = () => {
             <div className="feature-icon">
               <FaChartLine />
             </div>
-            <h3>Proven Results</h3>
+            <h3>Focused Growth</h3>
             <p>
-              78% of our students report improved admission/test scores or career opportunities 
-              after mentorship.
+              Our mentorship is designed to guide you at every important career stage — whether 
+              it’s choosing a college, preparing for exams, or entering the workforce.
             </p>
           </div>
         </div>
@@ -61,10 +61,10 @@ const WhyUs = () => {
         <div className="indian-edge">
           <h3>The Big Hero Advantage for Indian Students</h3>
           <ul>
-            <li>✓ Understands the competitive Indian education landscape</li>
-            <li>✓ Specialized guidance for JEE, NEET, CAT, UPSC and other exams</li>
-            <li>✓ Affordable mentorship options for all budgets</li>
-            <li>✓ Cultural understanding of Indian student needs</li>
+            <li> Deep understanding of India's competitive education system</li>
+            <li> Specialized mentorship for exams like JEE, NEET, CAT, UPSC</li>
+            <li> Affordable and accessible mentorship programs</li>
+            <li> Culturally aware guidance tailored for Indian students</li>
           </ul>
         </div>
       </div>
